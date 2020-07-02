@@ -1,0 +1,1 @@
+/home/dianhsu/Steam/steamapps/common/sandstorm_server/Insurgency/Binaries/Linux/InsurgencyServer-Linux-Shipping Oilfield?Scenario=Scenario_Refinery_Checkpoint_Security?MaxPlayers=32 -Port=7777 -QueryPort=27131 -log -hostname="====我的测试服务器===="
